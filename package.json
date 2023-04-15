@@ -23,6 +23,7 @@
     "@eliancodes/brutal-ui": "^0.2.0",
     "@unocss/astro": "^0.49.7",
     "astro": "^2.0.14",
+    "git": "^0.1.5",
     "satori": "^0.4.3",
     "satori-html": "^0.3.2"
   },
